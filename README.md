@@ -1,5 +1,5 @@
 # Freedom Cash
-[We](https://github.com/moniquebaumann/friends-of-satoshi) love [Freedom Cash](https://polygonscan.com/token/) as one of many potential journeys into freedom.   
+[We](https://github.com/moniquebaumann/friends-of-satoshi) love [Freedom Cash](https://polygonscan.com/token/0x1Dc4E031e7737455318C77f7515F8Ea8bE280a93) as one of many potential journeys into freedom.   
 
 We combine crypto education with [Geo-Caching](https://geo-caching.org).   
 
