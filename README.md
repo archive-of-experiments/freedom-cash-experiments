@@ -4,7 +4,7 @@
 ## Incentive Goals 
 [We](https://github.com/moniquebaumann/friends-of-satoshi) foster ever emerging architectures of freedom by rewarding those who help themselves and others to be free.    
 
-Some of our specific incentive goals are: 
+Some specific incentive goals of our [experiments](https://github.com/moniquebaumann/experiments-in-decentralized-freedom-technologies) are: 
 
 1. Broad Distribution / Decentralization   
 2. Liquidity Provisioning    
